@@ -26,7 +26,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rasagnauppula01&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🌟 Fun Facts
 - 🎵 I love relaxing to music  
@@ -34,5 +33,10 @@
 - ⚡ Quick learner & always eager to improve  
 
 ---
-
 ⭐️ *Thank you for visiting my GitHub profile! Let’s build something awesome together.*
+
+### 📫 Let's Connect!
+- 🌐 [Portfolio Website](#) *(https://rasagna-portfolio.vercel.app/)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/rasagna-uppula-401554251/)  
+- 📧 uppularasagna@gmail.com *(replace with your real email)*  
+
