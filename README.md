@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I'm a passionate and self-motivated **Frontend Developer** with a background in **Electronics and Communication Engineering**, and dream of contributing my skills to a reputed firm as a MERN stack developer! 
+🌱 I'm a passionate and self-motivated **Frontend Developer** with a background in **Electronics and Communication Engineering**, and dream of contributing my skills to a reputed firm as a **MERN Stack Developer**! 
 
 💻 I enjoy building user-friendly and responsive web interfaces and am always exploring new technologies to level up my skills.
 
