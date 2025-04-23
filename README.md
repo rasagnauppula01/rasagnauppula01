@@ -3,11 +3,11 @@
 
 ---
 
-🌱 I'm a passionate and self-motivated **Frontend Developer** with a background in **Electronics and Communication Engineering**.
+🌱 I'm a passionate and self-motivated **Frontend Developer** with a background in **Electronics and Communication Engineering**, and dream of contributing my skills to a reputed firm as a MERN stack developer! 
 
 💻 I enjoy building user-friendly and responsive web interfaces and am always exploring new technologies to level up my skills.
 
-🎯 **Currently focusing on**: React.js | Tailwind CSS | Node.js | Express.js | RESTful APIs
+🎯 **Currently focusing on**: React.js | Tailwind CSS | Node.js | Express.js | MongoDB | RESTful APIs
 
 ---
 
