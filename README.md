@@ -32,7 +32,7 @@
 ⭐️ *Thank you for visiting my GitHub profile! Let’s build something awesome together.*
 
 ### 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://rasagna-portfolio.vercel.app/)  
+- 🌐 [Portfolio Website](https://portfoliorasagnauppula.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rasagna-uppula-401554251/)  
 - 📧 uppularasagna@gmail.com   
 
